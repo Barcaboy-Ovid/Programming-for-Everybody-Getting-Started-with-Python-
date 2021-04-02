@@ -5,7 +5,7 @@
 
 ## Week 3:
 ### Programming Exercises
-- [Assignment 1](assignment/week3)
+- [Assignment 1](assignment/Week3-Assignment-Write-hello-world.txt)
 
 ## Week 4:
 ### Programming Exercises
@@ -14,16 +14,16 @@
 
 ## Week 5:
 ### Programming Exercises
-- [Assignment 3.1](assignment/Week5-Assignment_3.1.py)
-- [Assignment 3.1](assignment/Week5-Assignment_3.3.py)
+- [Assignment 3.1](assignment/Week5-Assignment_3.1.txt)
+- [Assignment 3.1](assignment/Week5-Assignment_3.3.txt)
 
 ## Week 6:
 ### Programming Exercises
-- [Assignment 4.6](assignment/Week6-Assignment_4.6.py)
+- [Assignment 4.6](assignment/Week6-Assignment_4.6.txt)
 
 ## Week 7:
 ### Programming Exercises
-- [Assignment 5](assignment/Week7-Assignment_5.2.py)
+- [Assignment 5](assignment/Week7-Assignment_5.2.txt)
 
 ## 🎓 [Certificate]()
 ![certificate](assets/Certificate.jpg)
