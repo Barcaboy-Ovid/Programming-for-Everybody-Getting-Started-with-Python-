@@ -14,8 +14,8 @@
 
 ## Week 5:
 ### Programming Exercises
-- [Assignment 3.1](assignment/Week5-Assignment_3.1.txt)
-- [Assignment 3.1](assignment/Week5-Assignment_3.3.txt)
+- [Assignment 3.1](assignment/Week5-Assignment _3.1.txt)
+- [Assignment 3.1](assignment/Week5-Assignment _3.3.txt)
 
 ## Week 6:
 ### Programming Exercises
