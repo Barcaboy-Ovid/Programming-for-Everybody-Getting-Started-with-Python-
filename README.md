@@ -9,7 +9,7 @@
 
 ## Week 4:
 ### Programming Exercises
-- [Assignment 2.2](assignment/Week4-Assignment_2.2.py)
+- [Assignment 2.2](assignment/Week4-Assignment_2.2)
 - [Assignment 2.3](assignment/Week4-Assignment_2.3.py)
 
 ## Week 5:
