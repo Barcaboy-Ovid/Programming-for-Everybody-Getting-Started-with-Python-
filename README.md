@@ -26,4 +26,4 @@
 - [Assignment 5](assignment/Week 7- Assignment 5)
 
 ## 🎓 [Certificate]()
-![certificate](assets/Certificate.jpeg)
+![certificate](assets/Certificate.jpg)
