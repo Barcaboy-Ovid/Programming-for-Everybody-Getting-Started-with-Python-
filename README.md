@@ -9,21 +9,21 @@
 
 ## Week 4:
 ### Programming Exercises
-- [Assignment 2.2](assignment/Week 4 - Assignment 2.2)
-- [Assignment 2.3](assignment/Week 4 - Assignment 2.3)
+- [Assignment 2.2](assignment/Week 4 - Assignment 2.2.py)
+- [Assignment 2.3](assignment/Week 4 - Assignment 2.3.py)
 
 ## Week 5:
 ### Programming Exercises
-- [Assignment 3.1](assignment/Week 5 - Assignment 3.1)
-- [Assignment 3.1](assignment/Week 5 - Assignment 3.3)
+- [Assignment 3.1](assignment/Week 5 - Assignment 3.1.py)
+- [Assignment 3.1](assignment/Week 5 - Assignment 3.3.py)
 
 ## Week 6:
 ### Programming Exercises
-- [Assignment 4.6](assignment/Week 6- Assignment 4.6)
+- [Assignment 4.6](assignment/Week 6- Assignment 4.6.py)
 
 ## Week 7:
 ### Programming Exercises
-- [Assignment 5](assignment/Week 7- Assignment 5)
+- [Assignment 5](assignment/Week 7- Assignment 5.2.py)
 
 ## 🎓 [Certificate]()
 ![certificate](assets/Certificate.jpg)
