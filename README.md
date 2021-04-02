@@ -1,6 +1,6 @@
 # Programming-for-Everybody-Getting-Started-with-Python ~ University of Michigan
 
-[![Course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/Barcaboy-Ovid/Course_list)
+[![Course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/Barcaboy-Ovid/Course-List)
 [![platform](https://img.shields.io/badge/Coursera-Course%20Link-1f72ff.svg)](https://www.coursera.org/learn/python?specialization=python)
 
 ## Week 3:
